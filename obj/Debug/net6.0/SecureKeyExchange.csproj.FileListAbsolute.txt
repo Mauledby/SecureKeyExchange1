@@ -1,0 +1,15 @@
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\obj\Debug\net6.0\SecureKeyExchange.csproj.AssemblyReference.cache
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\obj\Debug\net6.0\SecureKeyExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\obj\Debug\net6.0\SecureKeyExchange.AssemblyInfoInputs.cache
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\obj\Debug\net6.0\SecureKeyExchange.AssemblyInfo.cs
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\obj\Debug\net6.0\SecureKeyExchange.csproj.CoreCompileInputs.cache
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\bin\Debug\net6.0\SecureKeyExchange.exe
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\bin\Debug\net6.0\SecureKeyExchange.deps.json
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\bin\Debug\net6.0\SecureKeyExchange.runtimeconfig.json
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\bin\Debug\net6.0\SecureKeyExchange.dll
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\bin\Debug\net6.0\SecureKeyExchange.pdb
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\obj\Debug\net6.0\SecureKeyExchange.dll
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\obj\Debug\net6.0\refint\SecureKeyExchange.dll
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\obj\Debug\net6.0\SecureKeyExchange.pdb
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\obj\Debug\net6.0\SecureKeyExchange.genruntimeconfig.cache
+C:\Users\L11Y10W34\source\repos\SecureKeyExchange\obj\Debug\net6.0\ref\SecureKeyExchange.dll
